@@ -1,0 +1,4 @@
+# This is a requirements file for a Python project.
+boto3
+json
+
